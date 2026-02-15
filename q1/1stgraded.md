@@ -1,1 +1,1 @@
-# Sample 1st Graded Exercise File for the 1xt Qtr
+# Sample 1st Graded Exercise File for the 1st Qtr
