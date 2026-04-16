@@ -86,7 +86,7 @@ The app allows users to:
 [ ] Design Document Specification , containing the following:
 
     - Wireframe or Mockups
-    - Flow of Wireframe
+    - Flow of Wireframes
     - Class Diagram
     
 [ ] Running Hosted Application.
