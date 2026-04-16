@@ -10,7 +10,7 @@ A Simulation Activity of the first three phases of the Software Development Life
    - First tasks is to create a User Story as the first documentation of the Software Requirement Specification.
      - Place yourself in the shoes of a person using the app, list what you want to see in the app in the form of:
      
-     **As a ________ I want to be able to ________ so I could ______________**
+       **As a ________ I want to be able to ________ so I could ______________**
      
      - Do the same for the owner of the app.
      - Place your user story under the section **Software Requirement Specification** of this .md file. 
