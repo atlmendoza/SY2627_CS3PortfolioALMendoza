@@ -1,6 +1,6 @@
 # SDLC Phases Simulation
 
-A Simulation Activity of the first three steps of the Software Development Life Cycle.  Planning, Requirement Analysis and Design. This will be submitted by the end of this week.
+A Simulation Activity of the first three phases of the Software Development Life Cycle.  Planning, Requirement Analysis and Design. This will be submitted by the end of this week.
 
 ## Instructions:
 1. Form a group of 3 or 4 students, determine who will stand as the leader of the group.
