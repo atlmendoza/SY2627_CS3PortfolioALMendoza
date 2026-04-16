@@ -86,7 +86,7 @@ The app allows users to:
     - Flow of Wireframe
     - Class Diagram
     
-[ ] Running Application hosted in Google Collab or Github
+[ ] Running Hosted Application.
 
 [ ] A simple How To's documentation on how to operate the application
 
