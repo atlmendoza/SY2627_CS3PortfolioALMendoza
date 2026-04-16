@@ -44,7 +44,7 @@ A Simulation Activity of the first three phases of the Software Development Life
        
 ## Introduction
 
-There is an upcoming event in the campus and you would like to earn extra money by selling Cookie.  You would like to expand your clientelle by offering ordering system within the campus. So you plan to create an application that can be accessed within the campus only that will allow the campus community to order through The Cookie Ordering App.  The app is a simple software designed to help users browse, customize, and order cookies online. It allows customers to select cookie flavors, toppings, and quantities, then view their total before placing an order.  The owner of the application can then see the orders and deliver this order to the users.  An end of day total sales from online orders can be seen. 
+There is an upcoming event in the campus and you would like to earn extra money by selling Cookies.  You would like to expand your clientelle by offering ordering system within the campus. So you plan to create an application that can be accessed within the campus only that will allow the community to order through The Cookie Ordering App.  The app is a simple software designed to help users browse, customize, and order cookies online. It allows customers to select cookie flavors, toppings, and quantities, then view their total before placing an order.  The owner of the application can then see the orders and deliver this order to the users.  An end of day total sales from online orders can be seen. 
 
 ## Use of the App
 The app allows users to:
