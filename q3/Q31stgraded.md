@@ -5,15 +5,15 @@ A Simulation Activity of the first three phases of the Software Development Life
 ## Instructions:
 1. Form a group of 3 or 4 students, determine who will stand as the leader of the group.
 2. Download this .md file and place it inside your repository.
-3. Study the given application requirements for a Cookie Ordering App.
+3. Study the given application requirements for a Cookie Ordering App (it is after the Grading Rubric).
 4. For each of the task below, place the name of the students responsible in performing each one.  The leader of the group shoud review each output of the team/group.
-- First tasks is to create a User Story as the first documentation of the Software Requirement Specification.
-   - Place yourself in the shoes of a person using the app, list what you want to see in the app in the form of:
+   - First tasks is to create a User Story as the first documentation of the Software Requirement Specification.
+     - Place yourself in the shoes of a person using the app, list what you want to see in the app in the form of:
      
      **As a ________ I want to be able to ________ so I could ______________**
      
-   - Do the same for the owner of the app.
-   - Place your user story under the section **Software Requirement Specification** of this .md file. 
+     - Do the same for the owner of the app.
+     - Place your user story under the section **Software Requirement Specification** of this .md file. 
 - Under the Design Document Specification:
   - Second Task: Design at least one interface (mockup) for the user and for the owner based on the user story. You can use Canva for this purpose and place a link to it in this document.  Make Sure that for each interface you list the user story that it is supporting.
   - Third Task: Create a class diagram for the application.
