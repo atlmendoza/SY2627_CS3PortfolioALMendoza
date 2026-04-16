@@ -17,6 +17,8 @@ A Simulation Activity of the first three steps of the Software Development Life 
   - Third Task: Create a class diagram for the application.
 - Under the SDLC Model section:
   - Fourth Task: Determine the SDLC Model that will best fit the development phases for this application and Why.
+- How to Submit?
+  - Submit the link to the .md file containing your answers.  Each one will have the same content of their .md file and submit individually but stating the names of the group members and who is the leader
  
 ## Rubric: Cookie Ordering App Activity (20 Points)
 
@@ -28,17 +30,16 @@ A Simulation Activity of the first three steps of the Software Development Life 
 | **Class Diagram** | Accurate, well-structured diagram showing relationships clearly. | Mostly accurate diagram; minor errors in structure. | Diagram present but unclear or incomplete. | Diagram missing or incorrect. |
 | **SDLC Model Choice & Justification** | Model chosen appropriately with strong, logical justification. | Model chosen with adequate justification. | Model chosen but weak justification. | Model missing or unjustified. |
 
-###  Scoring
-- **Group Organization & Leadership** – 4 points  
-- **User Story (SRS)** – 4 points  
-- **Interface Design (Mockups)** – 4 points  
-- **Class Diagram** – 4 points  
-- **SDLC Model Choice & Justification** – 4 points  
 
-**Total: 20 points**
-  
-   
+<hr>
+
 ## Cookie Ordering App
+## Name of the Group Members
+   - Leader Name:
+   - Members Name:
+     - Name1
+     - Name2
+       
 ## Introduction
 
 There is an upcoming event in the campus and you would like to earn extra money by selling Cookie.  You would like to expand your clientelle by offering ordering system within the campus. So you plan to create an application that can be accessed within the campus only that will allow the campus community to order through The Cookie Ordering App.  The app is a simple software designed to help users browse, customize, and order cookies online. It allows customers to select cookie flavors, toppings, and quantities, then view their total before placing an order.  The owner of the application can then see the orders and deliver this order to the users.  An end of day total sales from online orders can be seen. 
