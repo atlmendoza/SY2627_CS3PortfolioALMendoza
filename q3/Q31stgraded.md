@@ -103,7 +103,7 @@ The app allows users to:
 [ ] As a ________ I want to be able to ________ so I could ______________
 
 ## Design Document Specifications:
-### Wireframe (An application interface mockup that supports User Story)
+### Wireframe (An application interface mockup followed by the list of User Stories applicable to the wireframe)
 
 ### Class Diagram (Based on the wireframe and User Story)
 
