@@ -6,13 +6,14 @@ A Simulation Activity of the first three phases of the Software Development Life
 1. Form a group of 3 or 4 students, determine who will stand as the leader of the group.
 2. Download this .md file and place it inside your repository.
 3. Study the given application requirements for a Cookie Ordering App (it is after the Grading Rubric).
-4. For each of the task below, place the name of the students responsible in performing each one.  The leader of the group shoud review each output of the team/group.
-   - First tasks is to create a User Story as the first documentation of the Software Requirement Specification.
-     - Place yourself in the shoes of a person using the app, list what you want to see in the app in the form of:
+4. For each of the tasks below, place the name of the students responsible for performing each one. The leader of the group should review each output of the team/group.
+   - First task is to create a User Story as the first documentation of the Software Requirement Specification.
+   - Place yourself in the shoes of a person using the app, list what you want to see in the app in the form of:
+
      
        **As a ________ I want to be able to ________ so I could ______________**
      
-     - Do the same for the owner of the app.
+     - Do the same for the owner of the app. 
      - Place your user story under the section **Software Requirement Specification** of this .md file. 
 - Under the Design Document Specification:
   - Second Task: Design at least one interface (mockup) for the user and for the owner based on the user story. You can use Canva for this purpose and place a link to it in this document.  Make Sure that for each interface you list the user story that it is supporting.
@@ -44,7 +45,7 @@ A Simulation Activity of the first three phases of the Software Development Life
        
 ## Introduction
 
-There is an upcoming event in the campus and you would like to earn extra money by selling Cookies.  You would like to expand your clientelle by offering ordering system within the campus. So you plan to create an application that can be accessed within the campus only that will allow the community to order through The Cookie Ordering App.  The app is a simple software designed to help users browse, customize, and order cookies online. It allows customers to select cookie flavors, toppings, and quantities, then view their total before placing an order.  The owner of the application can then see the orders and deliver this order to the users.  An end of day total sales from online orders can be seen. 
+There is an upcoming event in the campus and you would like to earn extra money by selling cookies. You would like to expand your clientele by offering an ordering system within the campus. So you plan to create an application that can be accessed within the campus only that will allow the community to order through The Cookie Ordering App. The app is a simple software designed to help users browse, customize, and order cookies online. It allows customers to select cookie flavors, toppings, and quantities, then view their total before placing an order. The owner of the application can then see the orders and deliver this order to the users. An end of day total sales from online orders can be seen.
 
 ## Use of the App
 The app allows users to:
@@ -55,7 +56,7 @@ The app allows users to:
 - Simulate checkout by confirming their order details.
 
 ## Scope of the App
-### What the app can do:
+### What can the app can do:
 #### For the buyer
 - Display cookie options and customization features.
 - Adding cookies to a cart and viewing totals.
@@ -68,13 +69,13 @@ The app allows users to:
 
 ### What the app cannot do:
 - Process real payments or connect to online stores.
-- User cannot see order history after delivery.
+- Users cannot see order history after delivery.
 
 ## Timeline of the Project
-- The development duration is only for one month considering the simplicity of the requirements of the application.
-- In the next two weeks the following should be done.
-  - Deployment and Tesstin
-  - Corrections and Updating is within 
+- Upon agreement/approval on this initial plan, the development duration is only for one month considering the simplicity of the requirements of the application.
+- Additional two weeks for the following.
+  - Deployment and Tessting
+  - Corrections and Updating
     
 ## Key deliverables
 [ ] Sotware Requirement Specifications, containing the following:
