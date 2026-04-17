@@ -109,7 +109,9 @@ The app allows users to:
 
 ## SDLC Model Selected
 
-#### The SDLC Model Chosen
+#### The SDLC Model Description
+
+#### Justification on the use of the Model
 
 <!--- place your description here -->
 <!-- justification of your group's choice -->
