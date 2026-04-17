@@ -111,7 +111,7 @@ The app allows users to:
 
 #### The SDLC Model Description
 
-#### Justification on the use of the Model
+#### Justification on the use of the Model (anchored on the Terms of Reference and Requirement Specifications)
 
 <!--- place your description here -->
 <!-- justification of your group's choice -->
